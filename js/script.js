@@ -75,7 +75,7 @@ function loader() {
     document.querySelector('.loader-container').classList.add('active');
 }
 
-window.onload = function fadeOut() {
+window.onload = function () {
     setTimeout(loader, 4000);
 }
 
