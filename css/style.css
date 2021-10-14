@@ -483,7 +483,7 @@ section {
     transform: translateY(-50%);
     font-size: 36px;
     cursor: pointer;
-    z-index: 99999;
+    z-index: 9;
 }
 
 .home .row .books-slider #arrow-left1:hover, .home .row .books-slider #arrow-right1:hover {
